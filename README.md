@@ -47,7 +47,7 @@ eLI(nSim=10000,visits=1,n=c(320),x1mean=c(9.1),x1sd=c(1.7), x2mean=c(0.01),x2sd=
 ## Output 1
 For this example, we get the following plot for the proportion of simulations where H<sub>0</sub> is rejected. As the magnitude of betaI increase, the proportion of simulations where H<sub>0</sub> is rejected increases.
 
-<img src="eLI.png" width="400">
+<img src="eLI_CR2hydroxyglutarate.png" width="400">
   
   ## Example 2
   We want to evaluate the interaction between age and the metabolite 2-hydroxyglutarate on bronchodilator response (BDR) in the CAMP study for 3 time points where the number of subjects at each time point differs.
