@@ -41,7 +41,8 @@ Then, we fit the linear regression for the effect of age times 2-hydroxyglutarat
 library(eLI)
 
 eLI(nSim=10000,visits=1,n=c(320),x1mean=c(9.1),x1sd=c(1.7), x2mean=c(0.01),x2sd=c(0.5),beta1=c(0.00004),
-         beta2=c(0.15),betaI=seq(from=-0.015, to=-0.03,length.out=10), Sigma=matrix(c(0.01),nrow=1,ncol=1,byrow=T),alpha=0.05,plot.pdf=T,plot.label=”2-hydroxyglutarate”,plot.name=paste("eLI_CR2hydroxyglutarate.pdf"),seed=1)
+         beta2=c(0.15),betaI=seq(from=-0.015, to=-0.03,length.out=10), Sigma=matrix(c(0.01),nrow=1,ncol=1,byrow=T),
+         alpha=0.05,plot.pdf=T,plot.label=”2-hydroxyglutarate”,plot.name=paste("eLI_CR2hydroxyglutarate.pdf"),seed=1)
 ```
 
 ## Output 1
