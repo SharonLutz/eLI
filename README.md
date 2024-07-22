@@ -12,7 +12,7 @@ devtools::install_github("SharonLutz/eLI")
 ```
 
 ## Input for eLI
-For a given number of simulations (input=nSim) and time points or visits (input=visits), the number of subjects at each time point (input=n) must be specified. Then, two normally distributed traits (x1 and x2) are generated based on the user inputted mean (input=x1mean and x2mean) and standard deviation (input=x1sd and x2sd). Then, the outcome Y is generated from a multivariate normal distribution (for visits>1) or a normal distribution (for visits=1) where the mean equal to
+For a given number of simulations (input=nSim) and time points or visits (input=visits), the number of subjects at each time point (input=n) must be specified. Then, two normally distributed traits (x1 and x2) are generated based on the user inputted mean (input=x1mean and x2mean) and standard deviation (input=x1sd and x2sd). Then, the outcome Y is generated from a multivariate normal distribution (for visits>1) or a normal distribution (for visits=1) with mean equal to
 
 E\[Y\] = &beta;<sub>1</sub> x1+ &beta;<sub>2</sub> x2 +  &beta;<sub>I</sub>   x1 x2  
 
