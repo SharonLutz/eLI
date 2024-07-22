@@ -1,5 +1,5 @@
 # eLI
-Examine the interaction of 2 normally distributed traits on a multivariate normally distributed outcome in an unbalanced longitudinal study design
+Examines the interaction of 2 normally distributed traits on a multivariate normally distributed outcome in an unbalanced longitudinal study design
 
 ## Installation
 devtools needs to be installed once if it has not already been installed.
