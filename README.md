@@ -56,7 +56,7 @@ For 500 simulations (nSim=500) and 3 time points (visits=3), the vector of the n
 
 Then, we fit the random intercept model for the effect of age times 2-hydroxyglutarate on BDR. From this output, we got  beta1=c(-0.002), beta2=c( 0.06), and Sigma=matrix(c(0.1,0.07,0.07,0.07,0.1,0.07,0.07,0.07,0.1),nrow=3,ncol=3,byrow=T). For the interaction (input betaI), the estimate for the interaction was -0.004 so we vary the effect size from -0.004 to -0.02 (betaI=seq(from=-0.004,to=-0.02,length.out=10)) to see how the proportion of simulations where H<sub>0</sub> is rejected changes for different values of betaI.
 
-The following used to run this analysis:
+The following is used to run this analysis:
   
   ```
 library(eLI)
