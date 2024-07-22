@@ -46,7 +46,7 @@ eLI(nSim=10000,visits=1,n=c(320),x1mean=c(9.1),x1sd=c(1.7), x2mean=c(0.01),x2sd=
 ```
 
 ## Output 1
-For this example, we get the following plot for the proportion of simulations where H<sub>0</sub> is rejected. As the magnitude of betaI increase, the proportion of simulations where H<sub>0</sub> is rejected increases.
+For this example, we get the following plot for the proportion of simulations where H<sub>0</sub> is rejected. As the magnitude of betaI increases, the proportion of simulations where H<sub>0</sub> is rejected increases.
 
 <img src="eLI_CR2hydroxyglutarate.png" width="400">
   
@@ -71,7 +71,7 @@ eLI(nSim=500,visits=3,n=c(560,563,295),x1mean=c(8.8,12.8,16.8),
 ```
 
 ## Output 2
-For this example, we get the following plot for the proportion of simulations where H<sub>0</sub> is rejected. As the magnitude of betaI increase, the proportion of simulations where H<sub>0</sub> is rejected increases.
+For this example, we get the following plot for the proportion of simulations where H<sub>0</sub> is rejected. As the magnitude of betaI increases, the proportion of simulations where H<sub>0</sub> is rejected increases.
 
 <img src="eLI_CAMP2hydroxyglutarate.png" width="400">
   
