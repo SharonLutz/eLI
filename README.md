@@ -20,7 +20,7 @@ where the main effect of x1 on Y (input=beta1) and the main effect of x2 on Y (i
 
 Additionally, if the user wants to produce a graph of the results saved to the working directory, then use plot.pdf=T. The name of the plot (input= plot.name) and the main label for the plot can be specified (input= plot.label).
 
-See the manpage for more detail regarding the input of the eLI function.
+See the man page for more details regarding the input of the eLI function.
 
 ```
 library(eLI)
