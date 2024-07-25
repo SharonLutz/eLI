@@ -74,8 +74,4 @@ eLI(nSim=500,visits=3,n=c(560,563,295),x1mean=c(8.8,12.8,16.8),
 For this example, we get the following plot for the proportion of simulations where H<sub>0</sub> is rejected. As the magnitude of betaI increases, the proportion of simulations where H<sub>0</sub> is rejected increases.
 
 <img src="eLI_CAMP2hydroxyglutarate.png" width="400">
-  
-  ## References
-  The analysis used here was implemented in the following manuscript to examine the interaction between age and 7 metabolites on BDR in the CAMP and GACRS studies: <br/>
-  
-  Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST, Lasky-Su J, Wu AC. Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. Metabolites. 9(9). doi: 10.3390/metabo9090179.
+
