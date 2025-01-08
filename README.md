@@ -75,3 +75,5 @@ For this example, we get the following plot for the proportion of simulations wh
 
 <img src="eLI_CAMP2hydroxyglutarate.png" width="400">
 
+## References
+Kelly RS, Sordillo JE, **Lutz SM**, Avila L, Soto-Quiros M, Celedón JC, McGeachie MJ, Dahlin A, Tantisira K, Huang M, Clish CB, Weiss ST, Lasky-Su J, Wu AC. Pharmacometabolomics of Bronchodilator Response in Asthma and the Role of Age-Metabolite Interactions. Metabolites. 9(9). doi: 10.3390/metabo9090179.
